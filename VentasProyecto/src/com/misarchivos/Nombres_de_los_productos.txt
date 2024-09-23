@@ -1,0 +1,10 @@
+Id del producto: 1. Nombre del producto:Café Orgánico. Precio: 41,50
+Id del producto: 2. Nombre del producto:Leche en Polvo. Precio: 84,28
+Id del producto: 3. Nombre del producto:Pan de Molde. Precio: 39,75
+Id del producto: 4. Nombre del producto:Queso Doble Crema. Precio: 98,83
+Id del producto: 5. Nombre del producto:Jamón York. Precio: 63,15
+Id del producto: 6. Nombre del producto:Café Orgánico. Precio: 57,33
+Id del producto: 7. Nombre del producto:Leche en Polvo. Precio: 37,70
+Id del producto: 8. Nombre del producto:Pan de Molde. Precio: 44,70
+Id del producto: 9. Nombre del producto:Queso Doble Crema. Precio: 61,18
+Id del producto: 10. Nombre del producto:Jamón York. Precio: 24,06
