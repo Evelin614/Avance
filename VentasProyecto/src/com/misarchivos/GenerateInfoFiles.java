@@ -32,7 +32,7 @@ public class GenerateInfoFiles {
      * @param numberOfSales Número de ventas aleatorias a generar
      */
     public static void createSalesMenFile(long id, int numberOfSales) {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("Ventas_del_vendedor_de_codigo_#" + id + ".txt"))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("sales_" + id + ".txt"))) {
             // Genperador de números aleatorios
             Random rand = new Random();
             // Generar un conjunto de ventas aleatorias para el vendedor
